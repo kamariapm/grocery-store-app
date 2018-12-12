@@ -1,0 +1,39 @@
+body{
+    background:#ff867c
+}
+
+#header{
+    background: #ef5350;
+    color: white;
+    height: 200px;
+    margin-top: 0%;
+text-align: center;
+margin-bottom: 2%
+}
+
+.container{
+    margin-top: 2%;
+    border: solid white;
+text-align: center
+}
+
+#textArea{
+    font-weight: bold;
+    color: white;
+    font-size: 20px
+}
+
+#addRow{   
+    margin-left: -70%;
+    color: white;
+    
+}
+
+#submitButton{
+    border-radius: 25px;
+}
+
+#submit{
+    margin-left: 50%;
+    margin-top: 15px
+}
